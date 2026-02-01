@@ -1,0 +1,11 @@
+{
+  "name": "shared-messaging",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
